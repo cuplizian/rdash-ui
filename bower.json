@@ -19,7 +19,16 @@
         "dist/fonts/montserrat-regular-webfont.eot",
         "dist/fonts/montserrat-regular-webfont.svg",
         "dist/fonts/montserrat-regular-webfont.ttf",
-        "dist/fonts/montserrat-regular-webfont.woff"
+        "dist/fonts/montserrat-regular-webfont.woff",
+		"less/content.less",
+		"less/hamburg.less",
+		"less/header.less",
+		"less/loading.less",
+		"less/main.less",
+		"less/mixins.less",
+		"less/sidebar.less",
+		"less/variables.less",
+		"less/widgets.less"
     ],
     "ignore": [
         "**/**.*",
